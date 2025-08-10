@@ -1,0 +1,14 @@
+{
+  "Login": {
+    "userEmail": "absh8uy@gmail.com",
+    "userPassword": "Am1231#@"
+  },
+  "Product": {
+    "productName": "iphone 16",
+    "productCategory": "Electronics",
+    "productSubCategory": "Mobile Phones",
+    "productPrice": "4999",
+    "productDescription": "This is a new product added via API",
+    "productFor": "Everyone"
+  }
+}
