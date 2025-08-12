@@ -21,7 +21,7 @@ Deserialization – Map API JSON responses to Java POJOs for easy validation (Cr
 
 Data-Driven Testing – Load dynamic test data from JSON files (utils.JsonDataLoader, ecom-data.json).
 
-File Upload Testing – Upload product images (iPhone16.png).
+File Upload Testing – Upload product images 
 
 Schema Validation – Validate API responses with JSON schema.
 
